@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Buy Chairs Online </title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <button id="cart-toggle-btn" onclick="toggleCart()">🛒</button>
+    <button class="toast" id="toast">Product Added</button>
+    <div class="left">
+      <span class="s1">🛒 Find Your Perfect Seat</span><br />
+      <input
+        type="text"
+        placeholder="search products..."
+        oninput="searchProducts()"
+        id="search"
+      />
+      <div class="products" id="products"></div>
+    </div>
+    <div class="cart">
+      <span class="s2">🛍️Your Cart</span>
+      <div class="cart-c" id="cart-c"></div>
+      <p class="total" id="total">Total:$0</p>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
