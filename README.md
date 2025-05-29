@@ -17,3 +17,7 @@ Welcome to ChairShop, a modern and responsive e-commerce website focused on the 
 - HTML5
 - CSS3
 - JavaScript
+
+🔗 Live Demo
+
+https://gorle-mohanarao.github.io/Buy-Chairs-E-Commerce-Website/
