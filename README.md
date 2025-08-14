@@ -2,6 +2,10 @@
 
 Welcome to ChairShop, a modern and responsive e-commerce website focused on the shopping experience for high-quality chairs. This project is built using HTML, CSS, and JavaScript, showcasing front-end development skills with a sleek design and smooth user interactions.
 
+🔗 Live Demo
+
+https://gorle-mohanarao.github.io/Buy-Chairs-E-Commerce-Website/
+
 ## 🚀 Features
 
 - 🛒 User-friendly product listing page
@@ -18,6 +22,4 @@ Welcome to ChairShop, a modern and responsive e-commerce website focused on the 
 - CSS3
 - JavaScript
 
-🔗 Live Demo
 
-https://gorle-mohanarao.github.io/Buy-Chairs-E-Commerce-Website/
